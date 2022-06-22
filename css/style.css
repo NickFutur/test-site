@@ -370,7 +370,7 @@
           cursor: pointer;
           background-color: rgba(255, 255, 255, 0.7);
           background-position: center;
-          width: calc( (100vw - 480px)/(1920 - 480) * (116 - 43) + 43px);
+         
           height: calc( (100vw - 480px)/(1920 - 480) * (116 - 43) + 43px);
           border-radius: 100px;
           border-color: rgba(255, 255, 255, 0);
